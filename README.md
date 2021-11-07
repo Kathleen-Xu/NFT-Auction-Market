@@ -38,6 +38,10 @@ $ cd NFT-Auction-Market-main
 ``` bash
 $ yarn
 ```
+  **If you are using the code file I emailed to TA, you will need to install @openzeppelin/contracts additionally.**
+```bash
+$ npm install @openzeppelin/contracts
+```
 4. Run the ganache and MetaMask. Make sure they use port 7545.
 5. Migrate and deploy the contracts
 ``` bash
