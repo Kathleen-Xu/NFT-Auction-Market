@@ -18,4 +18,37 @@ This project was developed with the following technologies:
 - MetaMask
   
 ## :joystick: how to use
+#### Requirements
+To run the application you'll need:
+- Git
+- Node
+- Yarn or npm
+- Truffle
+- Ganache
+- Metamask
+- IPFS
+
+#### Steps
+1. Clone the repository
+2. Go to the project folder
+``` bash
+$ cd NFT-Auction-Market
+```
+3. install the dependencies
+``` bash
+$ yarn
+```
+4. Run the ganache and MetaMask and make sure they use port 7545
+5. Migrate and deploy the contracts
+``` bash
+$ truffle migrate
+```
+6. Run the client
+``` bash
+$ cd client
+$ yarn
+$ yarn start
+```
+  
+  
 
