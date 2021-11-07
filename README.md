@@ -74,7 +74,7 @@ $ npm install @openzeppelin/contracts
 ``` bash
 $ truffle migrate
 ```
-6. Run the ipfs. Make sure you have ipfs configured for cross-domain resource sharing.
+6. Run the ipfs. Make sure you have ipfs configured for cross-domain resource sharing. You can refer to <a href="https://www.cnblogs.com/yinian/p/9836853.html" title="ipfs-cors">this blog</a>.
 7. Run the client
 ``` bash
 $ cd client
