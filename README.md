@@ -1,6 +1,16 @@
 # NFT-Auction-Market
 ## :framed_picture: Preview
 Check out how it looks:
+
+<img src="client/src/assets/start.jpg" width="60%">
+
+![image](client/src/assets/start.jpg)
+
+You can mint your NFT:
+
+![image](client/src/assets/mint.jpg)
+
+
 ## :gear: Built With
 This project was developed with the following technologies:
 
