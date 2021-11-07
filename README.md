@@ -32,21 +32,22 @@ To run the application you'll need:
 1. Clone the repository
 2. Go to the project folder
 ``` bash
-$ cd NFT-Auction-Market
+$ cd NFT-Auction-Market-main
 ```
 3. install the dependencies
 ``` bash
 $ yarn
 ```
-4. Run the ganache and MetaMask and make sure they use port 7545
+4. Run the ganache and MetaMask. Make sure they use port 7545.
 5. Migrate and deploy the contracts
 ``` bash
 $ truffle migrate
 ```
-6. Run the client
+6. Run the ipfs. Make sure you have ipfs configured for cross-domain resource sharing.
+7. Run the client
 ``` bash
 $ cd client
-$ yarn
+$ npm install
 $ yarn start
 ```
   
