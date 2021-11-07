@@ -2,13 +2,30 @@
 ## :framed_picture: Preview
 Check out how it looks:
 
-<img src="client/src/assets/start.jpg" width="60%">
-
 ![image](client/src/assets/start.jpg)
 
 You can mint your NFT:
 
 ![image](client/src/assets/mint.jpg)
+
+You can see the NFT you created: 
+
+![image](client/src/assets/created.jpg)
+
+You can put the NFT for auction: 
+
+![image](client/src/assets/single.jpg)
+
+You can explore all the NFT on auction:
+
+![image](client/src/assets/explore-nft-on-auction.jpg)
+
+Also, you can see the NFT you collected through auction on the page "collected".
+
+If you are a bidder, you can bid for NFT, withdraw your money if there is a higher bid price, and as well as claim the NFT if you are the winner.
+For the case when no one bid for NFT, the owner can fetch the NFT after the auction.
+
+All the information about the history of ownership of NFTs and the history of bids of auctions is displayed.
 
 
 ## :gear: Built With
