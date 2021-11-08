@@ -81,6 +81,10 @@ $ cd client
 $ npm install
 $ yarn start
 ```
-  
-  
+
+## :page_with_curl: TODO
+
+There are some things to be done in the project:
+Since this project uses redux with hook style, but I am not familiar with it at the moment, *I can't do the real-time update*.
+**Therefore, after each operation or account change, you need to go to the *Explore page* or a *single NFT page* for manual refresh.**
 
